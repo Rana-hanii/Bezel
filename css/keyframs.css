@@ -1,0 +1,171 @@
+.About-sec p span::after {
+  content: "";
+  animation: Typing_animation 8s infinite;
+  color: #00c3da;
+  font-size: 24px;
+  font-weight: 400;
+}
+@keyframes Typing_animation {
+  0% {
+    content: "|";
+  }
+  1.88679245283019% {
+    content: "a|";
+  }
+  3.77358490566038% {
+    content: "ap|";
+  }
+  5.66037735849057% {
+    content: "app|";
+  }
+  7.54716981132075% {
+    content: "apps|";
+  }
+  9.43396226415094% {
+    content: "apps";
+  }
+  11.3207547169811% {
+    content: "apps|";
+  }
+  13.2075471698113% {
+    content: "apps";
+  }
+  15.0943396226415% {
+    content: "apps|";
+  }
+  16.9811320754717% {
+    content: "app|";
+  }
+  18.8679245283019% {
+    content: "ap|";
+  }
+  20.7547169811321% {
+    content: "a|";
+  }
+  22.6415094339623% {
+    content: "|";
+  }
+  24.5283018867925% {
+    content: "w|";
+  }
+  26.4150943396226% {
+    content: "we|";
+  }
+  28.3018867924528% {
+    content: "web|";
+  }
+  30.188679245283% {
+    content: "webs|";
+  }
+  32.0754716981132% {
+    content: "websi|";
+  }
+  33.9622641509434% {
+    content: "websit|";
+  }
+  35.8490566037736% {
+    content: "website|";
+  }
+  37.7358490566038% {
+    content: "websites|";
+  }
+  39.622641509434% {
+    content: "websites";
+  }
+  41.5094339622641% {
+    content: "websites|";
+  }
+  43.3962264150943% {
+    content: "websites";
+  }
+  45.2830188679245% {
+    content: "websites|";
+  }
+  47.1698113207547% {
+    content: "website|";
+  }
+  49.0566037735849% {
+    content: "websit|";
+  }
+  50.9433962264151% {
+    content: "websi|";
+  }
+  52.8301886792453% {
+    content: "webs|";
+  }
+  54.7169811320754% {
+    content: "web|";
+  }
+  56.6037735849056% {
+    content: "we|";
+  }
+  58.4905660377358% {
+    content: "w|";
+  }
+  60.377358490566% {
+    content: "s|";
+  }
+  62.2641509433962% {
+    content: "so|";
+  }
+  64.1509433962264% {
+    content: "sof|";
+  }
+  66.0377358490566% {
+    content: "soft|";
+  }
+  67.9245283018868% {
+    content: "softw|";
+  }
+  69.8113207547169% {
+    content: "softwa|";
+  }
+  71.6981132075471% {
+    content: "softwar|";
+  }
+  73.5849056603773% {
+    content: "software|";
+  }
+  75.4716981132075% {
+    content: "softwares|";
+  }
+  77.3584905660377% {
+    content: "softwares";
+  }
+  79.2452830188679% {
+    content: "softwares|";
+  }
+  81.1320754716981% {
+    content: "softwares";
+  }
+  83.0188679245283% {
+    content: "softwares|";
+  }
+  84.9056603773585% {
+    content: "software|";
+  }
+  86.7924528301887% {
+    content: "softwar|";
+  }
+  88.6792452830189% {
+    content: "softwa|";
+  }
+  90.5660377358491% {
+    content: "softw|";
+  }
+  92.4528301886793% {
+    content: "soft|";
+  }
+  94.3396226415095% {
+    content: "sof|";
+  }
+  96.2264150943396% {
+    content: "so|";
+  }
+  98.1132075471698% {
+    content: "s|";
+  }
+  100% {
+    content: "|";
+  }
+}
