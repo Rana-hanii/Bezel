@@ -278,7 +278,7 @@ body:has([href="#Home"].nav-link.active) .navbar img {
   }
 
   .home-sec .carousel-control-prev {
-    top: 24%;
+    top: 0%;
     height: 50px;
     width: 50px;
     border: 0px solid rgba(255, 255, 255, 0.7);
@@ -286,12 +286,13 @@ body:has([href="#Home"].nav-link.active) .navbar img {
     /* margin-bottom: 10px; */
   }
   .home-sec .carousel-control-next {
-    top: 75%;
+    top: 0%;
     height: 50px;
     width: 50px;
     border: 0px solid rgba(255, 255, 255, 0.7);
     border-left: 0px;
   }
+ 
 }
 
 /* Home */
